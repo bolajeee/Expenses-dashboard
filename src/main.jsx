@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Provider from "./components/ui/Provider";
+import Provider from "./components/ui/provider.jsx";
 import Dashboard from "./Dashboard";
 import ErrorBoundary from "./ErrorBoundary.jsx";
 
